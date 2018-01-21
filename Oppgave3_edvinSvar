@@ -1,0 +1,31 @@
+Objectfiler på forskjellige operativsystemer:
+- MS Windows: .exe
+- Mac OS X: .dmg
+- Unix / Linux: .elf (vanligvis bruker man ikke extension på linux)
+
+Jeg tror at objektfilene er så forskjellige siden operativsystemene er bygd opp forskjellig.
+De har sine egne måter å håndtere data på, slik at en felles objektfiltype kunne blitt
+vanskelig å håndtere, mest sannsynlig resultert i kaos.
+Å bruke analogien av at et AAA-batteri ikke hadde funket som en lyspære virker aktuelt. 
+
+Når det kommer til forskjeller på GO og Java, ser jeg først at GO ikke bruker klasser.
+Det virker heller ikke som at man trenger å bruke semikolon til å importere bibliotek, eller å kjøre en metode. 
+Samtidig blir det lagt stor vekt på hvordan en funksjon er formatert. Da jeg begynte på oppgavens versjon av "hello.go"
+funket ikke koden. Eneste feilen jeg hadde gjort var å plassere parantesene mine feil, da jeg er mer vandt til det siste 
+eksempelet nedenfor.
+
+------------------------------------------
+func main() {
+  fmt.Println("Hello 世界, Edvin's commit")
+}
+
+
+til 
+
+func main() 
+{
+  fmt.Println("Hello 世界, Edvin's commit")
+}
+------------------------------------------
+
+Jeg får sterkt inntrykk av at GO er delvis strengere på grammatikk enn Java.
