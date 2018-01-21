@@ -1,3 +1,5 @@
+1.
+
 Objectfiler på forskjellige operativsystemer:
 - MS Windows: .exe
 - Mac OS X: .dmg
@@ -8,6 +10,7 @@ De har sine egne måter å håndtere data på, slik at en felles objektfiltype k
 vanskelig å håndtere, mest sannsynlig resultert i kaos.
 Å bruke analogien av at et AAA-batteri ikke hadde funket som en lyspære virker aktuelt. 
 
+2.
 Når det kommer til forskjeller på GO og Java, ser jeg først at GO ikke bruker klasser.
 Det virker heller ikke som at man trenger å bruke semikolon til å importere bibliotek, eller å kjøre en metode. 
 Samtidig blir det lagt stor vekt på hvordan en funksjon er formatert. Da jeg begynte på oppgavens versjon av "hello.go"
