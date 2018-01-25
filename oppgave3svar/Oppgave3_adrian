@@ -1,0 +1,3 @@
+Unix/Linux bruker ELF, MS Windows bruker EXE og Mac OS X bruker DMG som objektfilnavn. Disse platformene har så forskjellig objektfil-format fordi objektfil-formatet er en del av system designet som påvirker programmets responstid.
+
+Jeg legger merke til at main og import funksjonen er annerledes ved bruken av kolon blant annet. Bruk av "const" har jeg ikke sett i java før.
