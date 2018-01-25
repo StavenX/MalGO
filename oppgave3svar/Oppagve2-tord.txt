@@ -1,0 +1,11 @@
+1.
+Operativsystemene som har de forskjellige formatene ble laget av forskjellige folk og 
+ble produsert på forskjellige tidspunkt. Dette gir dem forskjellige måter å fungere på
+som dermed gir dem forskjellige objektfiler. 
+
+2.
+For meg ser det ut som golang er my strengere med hvordan ting skal se ut i koden enn
+i java. plasserer man en liten ting feil så fungerer ingenting. Samtidig virker golang
+enn java i form av hvilken informasjon den omhandler og produserer. Golang virker for
+meg mer primitivt 
+
