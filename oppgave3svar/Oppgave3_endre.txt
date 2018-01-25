@@ -1,0 +1,12 @@
+1: Objectfiler for forskjellige operativsystemer:
+- Unix / Linux: .elf
+- MS Windows: .exe
+- Mac OS X: .dmg
+
+Jeg mener at objektfil-formatene er så forskjellige på grunn av operativsystemene er blitt laget forskjellig.
+Operativsystemene har ikke blitt laget med tanke på hverandre, og er helt annerledes, dermed vil data håndteringen gjøres annerleses også.
+Dette gjør at det blir vanskelig eller ikke mulig å lage en felles objektfiltype.
+
+2:
+Den første forskjellen mellom Go og Java jeg legger merke til er at Go ikke bruker semikolon på slutten av kode linjene.
+Det er også annerledes å lage variabler i Go enn hva jeg er vandt til.
